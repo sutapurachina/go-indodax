@@ -13,3 +13,4 @@
 
 # OS binary
 *.DS_Store
+.idea/
